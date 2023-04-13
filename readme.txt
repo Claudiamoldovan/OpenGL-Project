@@ -1,0 +1,2 @@
+-conectez consultatia de programare si medicul poate adauga i programare doar dupa ce se termina programarea
+-cu o zi inainte de programare, pacientul primeste mail cu reminder.
