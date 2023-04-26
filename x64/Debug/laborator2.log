@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\Claud\Desktop\pg\proiect\LAB11\laborator2\laborator2\main.cpp(149,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Claud\Desktop\pg\proiect\LAB11\laborator2\laborator2\main.cpp(150,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Claud\Desktop\pg\proiect\LAB11\laborator2\laborator2\main.cpp(156,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Claud\Desktop\pg\proiect\LAB11\laborator2\laborator2\main.cpp(156,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Claud\Desktop\pg\proiect\LAB11\laborator2\laborator2\main.cpp(162,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Claud\Desktop\pg\proiect\LAB11\laborator2\laborator2\main.cpp(163,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Claud\Desktop\pg\proiect\LAB11\laborator2\laborator2\main.cpp(577,28): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Claud\Desktop\pg\proiect\LAB11\laborator2\laborator2\main.cpp(580,28): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Claud\Desktop\pg\proiect\LAB11\laborator2\laborator2\main.cpp(615,101): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\Claud\Desktop\pg\proiect\LAB11\laborator2\laborator2\main.cpp(615,56): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+  laborator2.vcxproj -> C:\Users\Claud\Desktop\pg\proiect\LAB11\laborator2\x64\Debug\laborator2.exe
